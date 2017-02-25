@@ -8,7 +8,7 @@ PostalCode, City, Province, ProvinceName, AreaCode, CityFlag, TimeZone, DST, Lat
 
 The application reads the information from an excel spreadsheet.
 
-# The application is created by using Flask/Python as well as HTML
+- The application is created by using Flask/Python as well as HTML
 
-# Since the csv file -contaning all Canadian postcodes- is not allowed to be uploaded into GitHub due to its large size,a samlpe file including 300 selected records is uploaded.
+- Since the csv file -contaning all Canadian postcodes- is not allowed to be uploaded into GitHub due to its large size,a samlpe file including 300 selected records is uploaded.
 
