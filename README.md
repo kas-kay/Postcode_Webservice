@@ -2,7 +2,7 @@
 
 The objective of this web service is to provide the location information related to each particular postcode in Canada.
 
-The user input the postocde and application outputs other information which matches the provided postcode.The information to be outputed for each given location are as below and in this order:
+User input the postocde and application outputs other information which matches the provided postcode.The information to be outputed for each given location are as below and in this order:
 
 PostalCode, City, Province, ProvinceName, AreaCode, CityFlag, TimeZone, DST, Latitude, Longitude, Elevation, Population, Dwellings, CityMixedCase and RecordType
 
