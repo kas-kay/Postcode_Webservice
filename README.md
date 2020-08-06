@@ -1,6 +1,6 @@
 # Postcode_Webservice
 
-The objective of this web service is to provide the location information related to each particular postcode in Canada.
+Objective of this web service is providing location information related to each particular postcode in Canada.
 
 User inputs a postocde and application outputs other information which matches the provided postcode.Information to be outputed for each given location is as follow:
 
